@@ -1,7 +1,9 @@
 ALUMNO: MARTIN FINO
 DNI: 34697932
  
-GITHUB LINK : https://github.com/tincho8919/UTNFINAL.git
+GITHUB LINK : https://github.com/tincho8919/frontfinalutm.git
+
+LINKS DE WEB : https://frontfinalutm.vercel.app/
 
 BREVE EXPLICACION: Tiende tres data base en mongo db una se llama blog y la otra product e users
  hay tres crud una insertar empleados y la otra carga de productos y la otro carga usuarios
