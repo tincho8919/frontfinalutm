@@ -1,11 +1,13 @@
 ALUMNO: MARTIN FINO
 DNI: 34697932
  
-GITHUB LINK : https://github.com/tincho8919/frontfinalutm.git
+GITHUB LINK FRONTEND : https://github.com/tincho8919/frontfinalutm.git
 
-LINK DE WEB : https://frontfinalutm.vercel.app/
+LINK DE WEB FRONTEND : https://frontfinalutm.vercel.app/
 
-LINK BACKEND WEB : https://finalutnback.onrender.com/
+GITHUB LINK BACKEND : https://github.com/tincho8919/backenfinalutn.git
+
+LINK BACKEND WEB BACKEND : https://finalutnback.onrender.com/
 
 "IMPORTANTE TIENE QUE HACER EL REGISTRO Y ESTAR LIGUIN PARA ACCEDER A LAS RUTAS"
 "RUTAS: *USER *USER MYD *CARGA DE PRODUCTOS *DESARROLLADOR"
