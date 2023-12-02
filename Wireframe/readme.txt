@@ -1,0 +1,1 @@
+"abrir desde carpeta el pdf"
